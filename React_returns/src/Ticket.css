@@ -1,0 +1,7 @@
+/* Ticket.css code */
+
+.ticket{
+    border: 1px solid black;
+    border-radius: 1rem;
+    width: 20rem;
+}
